@@ -162,9 +162,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/developer-paramita)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/developer-paramita)
+**My Name**
+- GitHub: [@my-username](https://github.com/developer-paramita)
+- LinkedIn: [my-linkedin](https://linkedin.com/in/developer-paramita)
 
 ---
 
