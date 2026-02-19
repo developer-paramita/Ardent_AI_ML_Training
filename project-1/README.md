@@ -163,8 +163,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **My Name**
-- GitHub: [@my-username](https://github.com/developer-paramita)
-- LinkedIn: [my-linkedin](https://linkedin.com/in/developer-paramita)
+- GitHub: [@developer-paramita](https://github.com/developer-paramita)
+- LinkedIn: [Paramita Bera](https://linkedin.com/in/Paramita Bera)
 
 ---
 
