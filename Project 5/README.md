@@ -17,6 +17,10 @@
 
 ## 📸 Demo
 
+
+
+<img width="565" height="625" alt="Screenshot 2026-02-20 143032" src="https://github.com/user-attachments/assets/9ea8c948-f3ad-4d10-bb42-3e667995feac" />
+
 | Feature | Detail |
 |---|---|
 | 🎥 Input | Live webcam feed |
