@@ -1,4 +1,4 @@
-# 🎓 Student Portfolio — AI & Python Projects
+# 🎓 Paramita's Portfolio — AI & Python Projects
 
 > A responsive, animated personal portfolio website built with vanilla **HTML, CSS & JavaScript** — showcasing hands-on AI/ML projects completed during a structured workshop.
 
